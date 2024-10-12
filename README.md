@@ -1,12 +1,10 @@
-          <!--título-->
-        
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hello World</h1></summary>
 </div>
 
 ##
-            <!-- Presentation -->
+           
  <p>           
  Hi 👋🏾. I'm Hiago Vinicius, I am a dev passionate about technology!
 
@@ -15,7 +13,7 @@
  • 🔭 I'm looking for my first job opportunity. My dream is to one day work with Programming.
 </p>
 
-           <!-- Dropdown -->
+           
 <details>
   <summary>👨‍💻 More about me</summary>
 
@@ -27,12 +25,10 @@
 This is the space where I spend most of my time where imagination and creativity become code.
 Currently I am learnin and creating projects such as:
 ##
-          <!-- GithubStats -->
 
 [![Hiago stats](https://github-readme-stats.vercel.app/api?username=HiagoVinicius10)](https://github.com/anuraghazra/github-readme-stats)
 
-##  🔥 Skills
-      <!-- Skills: Programming Languages -->               
+##  🔥 Skills           
       
 <div style="display: inline_block"><br>
   <img align="center" alt="Hiago-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -44,7 +40,7 @@ Currently I am learnin and creating projects such as:
 </div>
   
   ##
-          <!-- Links -->
+
 <div> 
   
   <a href="https://www.instagram.com/hiagoviniciu/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
