@@ -17,7 +17,7 @@
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I am 27 years old, currently living in Brazil. I have in advanced English and have experience with React, JavaScript, TypeScript, and a little bit of NodeJs.
+  - 💬 I am 29 years old, currently living in Brazil. I have in advanced English and have experience with React, JavaScript, TypeScript, and a little bit of NodeJs.
 
   - ⚡ I like reading, be it a good book, entrepreneurship, financial education or about IT, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem solving. \o/
 </details>
